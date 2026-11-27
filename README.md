@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Ahmet Aktay: Information Technology student, PHP and MySQL, Python, AI-assisted development">
+<img src="./assets/banner-simple.svg" width="100%" alt="Ahmet Aktay, Information Technology Student">
 
 <br><br>
 
